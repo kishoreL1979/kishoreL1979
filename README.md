@@ -132,13 +132,10 @@
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| **LeetCode** | 45| 1465 |
-| **CodeChef** | 589 | 1204 |
+| **LeetCode** | 51| 1465 |
+| **CodeChef** | 589 | 1214 |
 
   
-###  **Hackathon Achievements**
-- **1st Place** - CodeSmash (Inter-college DSA Hackathon)
-- 🥈 **Runner-Up** - 24-hour National Hackathon at AMC Engineering College, Bengaluru
 
 ---
 
